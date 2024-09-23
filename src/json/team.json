@@ -1,0 +1,22 @@
+[
+    {
+        "img":"team-img-1.png",
+        "name":"Peg Legge",
+        "course":"CEO"
+    },
+    {
+        "img":"team-img-2.png",
+        "name":"Richard Guerra",
+        "course":"CTO"
+    },
+    {
+        "img":"team-img-3.png",
+        "name":"Alexandra Stolz",
+        "course":"DESIGNER"
+    },
+    {
+        "img":"team-img-4.png",
+        "name":"Janet Bray",
+        "course":"DEVELOPER"
+    }
+]

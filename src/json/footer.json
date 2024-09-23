@@ -1,0 +1,30 @@
+[
+    {
+        "img":"facebook.svg",
+        "link":"https://www.facebook.com/"
+    },
+    {
+        "img":"instagram.svg",
+        "link":"https://www.instagram.com/"
+    },
+    {
+        "img":"tweeter.svg",
+        "link":"https://x.com/?lang=en"
+    },
+    {
+        "img":"pinterest.svg",
+        "link":"https://www.pinterest.com/"
+    },
+    {
+        "img":"tiktok.svg",
+        "link":"https://www.tiktok.com/"
+    },
+    {
+        "img":"whatSapp.svg",
+        "link":"https://web.whatsapp.com/"
+    },
+    {
+        "img":"youtube.svg",
+        "link":"https://www.youtube.com/"
+    }
+]

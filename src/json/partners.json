@@ -1,0 +1,22 @@
+[
+  {
+    "img": "google.png",
+    "link": "https://www.google.co.in/"
+  },
+  {
+    "img": "microsoft.png",
+    "link": "https://www.microsoft.com/en-in"
+  },
+  {
+    "img": "airbnb.png",
+    "link": "https://www.airbnb.co.in/"
+  },
+  {
+    "img": "facebook.png",
+    "link": "https://www.facebook.com/"
+  },
+  {
+    "img": "spotify.png",
+    "link": "https://open.spotify.com/"
+  }
+]
