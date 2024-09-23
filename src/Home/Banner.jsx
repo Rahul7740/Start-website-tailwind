@@ -9,7 +9,7 @@ function Banner() {
           <div className="flex flex-col items-start gap-[15px] md:max-w-[416px] w-full">
             <h4 className="text-white font-bold text-[16px] leading-5 font-work">WELCOME</h4>
             <h2 className="text-white font-bold text-[28px] sm:[34px] lg:text-[40px] leading-[35px] md:leading-[50px] font-crimson">Lorem ipsum dolor sit amet consectetur </h2>
-            <p className="text-[#FFFFFFBF] text-[15px] leading-[18.75px] font-normal mb-[10px]">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?</p>
+            <p className="text-[#FFFFFFBF] text-[15px] leading-[18.75px] font-work font-normal mb-[10px]">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?</p>
             <Buttons name="Learn More" bg="bg-white" color="text-[#000000]" />
           </div>
           <img src={require(`../assets/img/banner.png`)} alt="banner" />

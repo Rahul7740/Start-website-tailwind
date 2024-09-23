@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Basic",
+    "price": "$100",
+    "p": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam",
+    "services": [
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit "
+    ]
+  },
+  {
+    "title": "Plus",
+    "price": "$250",
+    "p": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam",
+    "services": [
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit "
+    ]
+  },
+  {
+    "title": "Pro",
+    "price": "$400",
+    "p": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam",
+    "services": [
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit ",
+      "Lorem ipsum, dolor sit "
+    ]
+  }
+]

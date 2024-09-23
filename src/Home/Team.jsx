@@ -23,12 +23,12 @@ function Team() {
             {jsonData.map((item, index) => (
               <div
                 key={index}
-                className="flex flex-col items-center gap-[19px] px-[39px] pt-5 pb-[19px] shadow-[3px_4px_12px_1px_#00000040] bg-white md:max-w-[252px] w-full rounded"
+                className="flex flex-col items-center border-[1px] border-solid border-transparent cursor-pointer transition-all duration-200 hover:border-[#74C69D] gap-[19px] px-[39px] pt-5 pb-[19px] shadow-[3px_4px_12px_1px_#00000040] hover:shadow-[3px_4px_12px_1px_#74C69D] bg-white md:max-w-[252px] w-full rounded"
               >
                 <img src={require(`../assets/img/${item.img}`)} alt="team" />
                 <div className="flex flex-col items-start gap-[17px] min-w-[202px] w-full">
                   <h3 className="font-bold text-[#212529] text-[24px] leading-[32px] text-crimson ">{item.name}</h3>
-                  <p className="text-[#212529BF] text-[15px] leading-[18.75px] font-normal">{item.course}</p>
+                  <p className="text-[#212529BF] text-[15px] leading-[18.75px] font-work font-normal">{item.course}</p>
                 </div>
               </div>
             ))}

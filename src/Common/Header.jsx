@@ -22,7 +22,10 @@ function Header() {
               <li key={index} className="">
                 <NavLink
                   to={item.path}
-                  className="text-white text-[20px] leading-[25px] font-work font-normal  "
+                  className="text-white text-[20px] leading-[25px] font-work font-normal relative
+                  before:content-[''] before:absolute before:bottom-[-1px] before:left-0 before:bg-white before:h-[1px] before:w-0 hover:before:w-full before:transition-all duration-200 menuLinks
+                  "
+                  activeClassName="active"
                 >
                   {item.name}
                 </NavLink>
@@ -30,7 +33,10 @@ function Header() {
             ))}
           </ul>
           <button className="block sm:hidden">
-            <img src={require(`../assets/svg/menu-icon.svg`).default} alt="menu-icon" />
+            <img
+              src={require(`../assets/svg/menu-icon.svg`).default}
+              alt="menu-icon"
+            />
           </button>
         </div>
       </div>

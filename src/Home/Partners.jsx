@@ -14,13 +14,13 @@ function Partners() {
             <h3 className="text-black font-bold font-crimson text-[24px] md:text-[40px] leading-[30px] md:leading-[50px] ">
               Lorem Ipsum Dolor
             </h3>
-            <p className="font-normal text-black text-[20px] leading-[25px] font-work ">
+            <p className="font-normal text-black  text-[20px] leading-[25px] font-work ">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
             </p>
           </div>
           <div className="flex flex-col sm:flex-row items-center justify-between w-full gap-10 sm:gap-4">
             {jsonData.map((item, index) => (
-              <a key={index} href={item.link}>
+              <a key={index} href={item.link} target="_blank" rel="noreferrer">
                 <img
                   src={require(`../assets/img/${item.img}`)}
                   alt={item.img}

@@ -9,7 +9,7 @@ function Footer() {
           <div className="flex items-center gap-5">
             {
               jsonData.map((item,index)=>(
-                <a key={index} href={item.link}>
+                <a key={index} href={item.link} target="_blank" rel="noreferrer" className="transition-all duration-200 hover:-translate-y-1">
                   <img src={require(`../assets/svg/${item.img}`)} alt="social-media" />
                 </a>
               ))

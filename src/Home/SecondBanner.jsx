@@ -11,7 +11,7 @@ function SecondBanner() {
             <h3 className="text-black font-bold font-crimson text-[24px] md:text-[40px] leading-[30px] md:leading-[50px] ">
               Lorem ipsum dolor sit amet consectetur
             </h3>
-            <p className="text-[#21252980] text-[15px] leading-[18.75px] font-normal">
+            <p className="text-[#21252980] text-[15px] font-work leading-[18.75px] font-normal">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
               nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum,
               voluptate culpa nesciunt delectus iste?
@@ -25,7 +25,7 @@ function SecondBanner() {
             <h3 className="text-black font-bold font-crimson text-[24px] md:text-[40px] leading-[30px] md:leading-[50px] ">
               Lorem ipsum dolor sit amet consectetur
             </h3>
-            <p className="text-[#21252980] text-[15px] leading-[18.75px] font-normal">
+            <p className="text-[#21252980] text-[15px] font-work leading-[18.75px] font-normal">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
               nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum,
               voluptate culpa nesciunt delectus iste?
