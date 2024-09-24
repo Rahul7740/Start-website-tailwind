@@ -7,7 +7,7 @@ function SecondBanner() {
       <div className="container">
         <div className="flex flex-col md:grid grid-cols-2 xl:flex xl:flex-row items-center justify-between gap-[30px] pb-[60.12px] sm:pb-[65px] lg:pb-[73.57px]">
           <img src={require(`../assets/img/second-banner.png`)} alt="banner" />
-          <div className="max-w-[470px] w-full flex flex-col items-start gap-4">
+          <div className="md:max-w-[470px] w-full flex flex-col items-start gap-4">
             <h3 className="text-black font-bold font-crimson text-[24px] md:text-[40px] leading-[30px] md:leading-[50px] ">
               Lorem ipsum dolor sit amet consectetur
             </h3>
@@ -21,7 +21,7 @@ function SecondBanner() {
         </div>
 
         <div className="flex flex-col-reverse md:grid grid-cols-2 xl:flex xl:flex-row items-center justify-between gap-[30px]">
-          <div className="max-w-[470px] w-full flex flex-col items-start gap-4">
+          <div className="md:max-w-[470px] w-full flex flex-col items-start gap-4">
             <h3 className="text-black font-bold font-crimson text-[24px] md:text-[40px] leading-[30px] md:leading-[50px] ">
               Lorem ipsum dolor sit amet consectetur
             </h3>
